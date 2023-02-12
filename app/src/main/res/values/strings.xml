@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FastMed Admin</string>
+    <string name="login">Log in</string>
+    <string name="error">This field is required!</string>
+</resources>
